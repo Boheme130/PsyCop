@@ -3,4 +3,4 @@
 <br>
 <br>
 
-### [Among the Living] (https://boheme130.github.io/AmongTheLiving/)
+### [Among the Living](https://boheme130.github.io/AmongTheLiving/)
